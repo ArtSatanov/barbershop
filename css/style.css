@@ -1,0 +1,63 @@
+:root {
+}
+
+body {
+  font-family: 'Open Sans';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
+
+.main-text {
+  font-size: 18px;
+  font-family: 'Open Sans';
+  line-height: 1.67;
+  letter-spacing: 0.02em;
+}
+
+.title {
+  font-size: 42px;
+  font-family: 'Raleway';
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.btn {
+  font-size: 12px;
+  font-family: 'Open Sans';
+  font-weight: 600;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: 0.09em;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.container{
+   max-width: 1185px;
+}
